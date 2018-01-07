@@ -1,0 +1,4 @@
+http://jquerymobile.com/download-builder/
+
+Checked box - Description
+Touch - Touch events including: touchstart, touchmove, touchend, tap, taphold, swipe, swipeleft, swiperight, scrollstart, scrollstop
